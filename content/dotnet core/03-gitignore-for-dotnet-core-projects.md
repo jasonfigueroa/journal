@@ -6,6 +6,8 @@ Below is what I'm currently listing in my .gitignore file for basic dotnet core 
 ```
 bin/
 obj/
+*.db
+*.sqlite3
 .vscode
 ```
 
