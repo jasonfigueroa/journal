@@ -38,7 +38,7 @@ The development site will be located at [http://localhost:8000](http://localhost
 
 ## Publish Site
 
-To publish the content to be pushed to github pages use:
+To publish the content to be pushed to GitHub Pages use:
 
 ```make publish```
 
