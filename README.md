@@ -44,4 +44,4 @@ To publish the content to be pushed to GitHub Pages use:
 
 *Note: This uses the publishconf.py file to generate the output*
 
-Push all of the contents found in the directory called **output** to github pages
+Push all of the contents found in the directory called **output** to GitHub Pages
