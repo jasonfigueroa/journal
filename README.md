@@ -1,4 +1,4 @@
-This is the repo for the source files used to generate the static files served at [https://jasonfigueroa.github.io](https://jasonfigueroa.github.io). 
+This is the repo for the source code used to generate the static files served at [https://jasonfigueroa.github.io](https://jasonfigueroa.github.io). 
 *Note: I am using python 2.7.*
 
 ## Setup
