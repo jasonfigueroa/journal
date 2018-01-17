@@ -1,6 +1,7 @@
 Title: Bash Display Current Directory & Git Branch 
 Date: 2018-01-17 15:44
-tags: bash
+Tags: bash
+Slug: bash-display-current-directory-and-branch
 
 The following is a screenshot.
 
