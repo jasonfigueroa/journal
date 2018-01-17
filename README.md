@@ -22,6 +22,8 @@ This is the repo for the source code used to generate the static files served at
 
 5. Clone the source files from repo found at [https://github.com/jasonfigueroa/journal](https://github.com/jasonfigueroa/journal)
 
+6. cd into the root directory of the cloned repo
+
 ## Local Development
 
 To create the content for local development use:
